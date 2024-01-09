@@ -59,12 +59,12 @@ Now, your Laravel project should be up and running on port 8080. You can access 
 
 ### **Access the Screening Form:**
 
-- Visit [http://localhost:8000/screening/form](http://localhost:8000/screening/form) to access the screening form.
+- Visit [http://localhost:8080/screening/form](http://localhost:8080/screening/form) to access the screening form.
 
 ### **View Screening Data:**
 
-- Visit [http://localhost:8000/screening/process](http://localhost:8000/screening/process) to view a result of screening data.
+- Visit [http://localhost:8080/screening/process](http://localhost:8080/screening/process) to view a result of screening data.
 
 ### **Access all Screening Data:**
 
-- Visit [http://localhost:8000/screenings](http://localhost:8000/screenings) to view old screening data.
+- Visit [http://localhost:8080/screenings](http://localhost:8080/screenings) to view old screening data.
